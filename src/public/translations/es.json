@@ -1,0 +1,12 @@
+{
+  "title": "Listado de personajes de Rick y Morty",
+  "table": {
+    "image": "Imagen",
+    "name": "Nombre",
+    "gender": "Genero"
+  },
+  "genders": {
+    "Male": "Hombre",
+    "Female": "Mujer"
+  }
+}
